@@ -26,7 +26,7 @@ test_requirements = [
 
 setup(
     name='metropack',
-    version='0.1.0',
+    version='0.1.1',
     description='Pack spheres in a finite space',
     long_description=readme + '\n\n' + history,
     author='Elliot Marsden',
